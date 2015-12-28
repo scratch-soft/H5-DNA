@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+Your title: Your name.
+Site: email, link to a contact form, etc.
+Twitter: your Twitter username.
+Location: City, Country.
+
+#THANKS
+Name: name or url
+
+#SITE
+
+Last update: 2015/12/28
+Standards: HTML5,CSS, JavaScript
+Components: Modernizr, jQuery,
+Software: Used for the development of websites and web pages. 
