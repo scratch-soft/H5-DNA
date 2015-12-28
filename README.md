@@ -1,4 +1,4 @@
-# H5-DNA-HTML5-DNA
+# H5-DNA (HTML5-DNA)
 
 HTML5-DNA has been develop from the experience that I gained over the years. I have made
 sure that it has all the basic requirements of building a good site.
@@ -8,7 +8,7 @@ sure that it has all the basic requirements of building a good site.
 Choose one of the following options:
 
 1.  Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git`
+    https://github.com/scratch-soft/H5-DNA.git`
 
 
 ## Features
@@ -72,5 +72,5 @@ You are all welcome to contribute.
 
 ## License
 
-The code is available under the [MIT license](LICENSE.txt).
+The code is available under the [Apache License](H5-DNA/LICENSE).
 
