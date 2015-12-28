@@ -1,1 +1,3 @@
 language: HTML5
+rvm:
+    -HTML5
